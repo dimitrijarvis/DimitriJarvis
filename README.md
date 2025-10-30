@@ -2,9 +2,12 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>In Progress test</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2> Certifications</h2>
 
+  - [CompTIA Server+](https://www.credly.com/badges/b064d90e-0372-4f35-917a-c0676c7cf76f/public_url)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
