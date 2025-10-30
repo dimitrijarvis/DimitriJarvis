@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dimitri! <br/><a href="https://github.com/dimitrijarvis">IT Services Technician</a>, <a href="www.linkedin.com/in/dimitri-jarvis/">Cybersecurity Professional</a>
+<h1>Hi, I'm Dimitri! <br/><a href="https://github.com/dimitrijarvis">IT Services Technician</a>, <a href="www.linkedin.com/in/dimitri-jarvis">Cybersecurity Professional</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
